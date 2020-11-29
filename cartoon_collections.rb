@@ -3,8 +3,8 @@ def greet_characters(array)
   #
   # Print a custom greeting for each element
    total = 0 
-   when array.each do |name|
-     if |name|
+   array.each do |name|
+     
   
 end
 
